@@ -39,6 +39,8 @@
 ### 💫 𝗗𝘂𝗱𝗮 𝘀𝗼𝗯𝗿𝗲 𝗲𝗹 𝗯𝗼𝘁? 
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗺𝗲 ✨
 
+/
+
 <a href="http://wa.me/573147616444" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 
 <a href="http://wa.me/573046570706?text=.estado" target="blank"><img src="https://img.shields.io/badge/Bot oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -113,7 +115,7 @@ npm start
 -----
 ### ☁️ CORINPLUS HOTS 
 <a href="https://dash.corinplus.com"><img src="https://qu.ax/ZycD.png" height="125px"></a>
-### Información del Host
+### Información del Host ###
 
 - **Dashboard:** [`Aquí`](https://dash.corinplus.com)
 - **Panel:** [`Aquí`](https://panel.corinplus.com)
